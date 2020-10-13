@@ -304,27 +304,27 @@ Shan Chuan = 1012</title>
   
     
   <li class="item">
-    <a href="/" rel="section"><i class="ic i-home"></i>Home</a>
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
   </li>
 
         
   <li class="item dropdown">
-    <a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+    <a href="javascript:void(0);"><i class="ic i-feather"></i>技术</a>
     <ul class="submenu">
 
         
   <li class="item">
-    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>Archives</a>
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>技术编程</a>
   </li>
 
         
   <li class="item">
-    <a href="/categories/" rel="section"><i class="ic i-th"></i>Categories</a>
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>技术软件</a>
   </li>
 
         
   <li class="item">
-    <a href="/tags/" rel="section"><i class="ic i-tags"></i>Tags</a>
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>技术杂谈</a>
   </li>
 
   </ul>
